@@ -1,0 +1,1 @@
+A:t,B:f,C:q,D:u,E:s,F:k,G:e,H:a,I:d,J:i,K:n,L:x,M:v,N:c,O:j,P:b,Q:z,R:y,S:o,T:w,U:g,V:p,W:r,X:h,Y:l,Z:m
