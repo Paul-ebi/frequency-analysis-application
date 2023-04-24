@@ -44,7 +44,7 @@ def print_analysis(count):
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python analysis.py cipher.txt")
+        print("Usage: python cipher.txt")
         return
     
 with open("cipher.txt", "r") as f:
